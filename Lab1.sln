@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{0E637B1E-D38C-4D8B-888F-F3AD4F6BE4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvoNet", "EvoNet\EvoNet.csproj", "{DA497B62-03A6-49A1-A65F-DB7A96E95873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E637B1E-D38C-4D8B-888F-F3AD4F6BE4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E637B1E-D38C-4D8B-888F-F3AD4F6BE4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E637B1E-D38C-4D8B-888F-F3AD4F6BE4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E637B1E-D38C-4D8B-888F-F3AD4F6BE4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA497B62-03A6-49A1-A65F-DB7A96E95873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA497B62-03A6-49A1-A65F-DB7A96E95873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA497B62-03A6-49A1-A65F-DB7A96E95873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA497B62-03A6-49A1-A65F-DB7A96E95873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
